@@ -1,0 +1,19 @@
+{
+  "name": "parcel2-solid-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/inex.html --no-scope-hoist"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-typescript": "^7.10.4",
+    "babel-preset-solid": "^0.18.14",
+    "parcel": "^2.0.0-beta.1"
+  },
+  "dependencies": {
+    "solid-js": "^0.18.14"
+  }
+}
