@@ -1,7 +1,7 @@
 {
   "name": "parcel2-solid-starter",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.html",
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/index.html",
