@@ -10,8 +10,11 @@
   "devDependencies": {
     "@babel/core": "^7.11.4",
     "@babel/preset-typescript": "^7.10.4",
+    "@babel/types": "^7.11.5",
+    "@parcel/config-default": "nightly",
     "babel-preset-solid": "^0.19.0",
-    "parcel": "nightly"
+    "parcel": "nightly",
+    "typescript": "^4.0.3"
   },
   "dependencies": {
     "solid-js": "^0.19.1"

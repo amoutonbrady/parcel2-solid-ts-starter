@@ -1,3 +1,11 @@
 dist
 .parcel-cache
 node_modules
+
+# Yarn 0 install
+.yarn/*
+!.yarn/cache
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
