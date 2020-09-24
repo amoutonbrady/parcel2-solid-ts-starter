@@ -8,15 +8,15 @@
     "build": "parcel build src/index.html"
   },
   "devDependencies": {
-    "@babel/core": "^7.11.4",
+    "@babel/core": "^7.11.6",
     "@babel/preset-typescript": "^7.10.4",
     "@babel/types": "^7.11.5",
     "@parcel/config-default": "nightly",
-    "babel-preset-solid": "^0.19.0",
+    "babel-preset-solid": "beta",
     "parcel": "nightly",
     "typescript": "^4.0.3"
   },
   "dependencies": {
-    "solid-js": "^0.19.1"
+    "solid-js": "beta"
   }
 }

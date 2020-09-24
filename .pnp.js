@@ -41,9 +41,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/preset-typescript", "virtual:bb17d83990d687790d6384e46b41060316e25f26c85db0fe5e29cfeba8af1957f9aa779dbd4714408d5d029dccabae51b29c4cb92b632e2eebc60c281024cf2c#npm:7.10.4"],
             ["@babel/types", "npm:7.11.5"],
             ["@parcel/config-default", "virtual:bb17d83990d687790d6384e46b41060316e25f26c85db0fe5e29cfeba8af1957f9aa779dbd4714408d5d029dccabae51b29c4cb92b632e2eebc60c281024cf2c#npm:2.0.0-nightly.409"],
-            ["babel-preset-solid", "npm:0.19.3"],
+            ["babel-preset-solid", "npm:0.20.0-beta.7"],
             ["parcel", "npm:2.0.0-nightly.407"],
-            ["solid-js", "npm:0.19.3"],
+            ["solid-js", "npm:0.20.0-beta.10"],
             ["typescript", "patch:typescript@npm%3A4.0.3#builtin<compat/typescript>::version=4.0.3&hash=5b02a2"]
           ],
           "linkType": "SOFT",
@@ -3589,10 +3589,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["babel-preset-solid", [
-        ["npm:0.19.3", {
-          "packageLocation": "./.yarn/cache/babel-preset-solid-npm-0.19.3-d39abc1779-326af2c497.zip/node_modules/babel-preset-solid/",
+        ["npm:0.20.0-beta.7", {
+          "packageLocation": "./.yarn/cache/babel-preset-solid-npm-0.20.0-beta.7-2625c265a8-95002f739a.zip/node_modules/babel-preset-solid/",
           "packageDependencies": [
-            ["babel-preset-solid", "npm:0.19.3"],
+            ["babel-preset-solid", "npm:0.20.0-beta.7"],
             ["babel-plugin-jsx-dom-expressions", "npm:0.20.8"],
             ["babel-plugin-transform-rename-import", "npm:2.3.0"]
           ],
@@ -3629,7 +3629,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/base-x-npm-3.0.8-e44fed3666-9e5832ab00.zip/node_modules/base-x/",
           "packageDependencies": [
             ["base-x", "npm:3.0.8"],
-            ["safe-buffer", "npm:5.1.2"]
+            ["safe-buffer", "npm:5.2.1"]
           ],
           "linkType": "HARD",
         }]
@@ -3744,7 +3744,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["create-hash", "npm:1.2.0"],
             ["evp_bytestokey", "npm:1.0.3"],
             ["inherits", "npm:2.0.4"],
-            ["safe-buffer", "npm:5.1.2"]
+            ["safe-buffer", "npm:5.2.1"]
           ],
           "linkType": "HARD",
         }]
@@ -3769,7 +3769,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["cipher-base", "npm:1.0.4"],
             ["des.js", "npm:1.0.1"],
             ["inherits", "npm:2.0.4"],
-            ["safe-buffer", "npm:5.1.2"]
+            ["safe-buffer", "npm:5.2.1"]
           ],
           "linkType": "HARD",
         }]
@@ -4025,7 +4025,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["cipher-base", "npm:1.0.4"],
             ["inherits", "npm:2.0.4"],
-            ["safe-buffer", "npm:5.1.2"]
+            ["safe-buffer", "npm:5.2.1"]
           ],
           "linkType": "HARD",
         }]
@@ -4411,7 +4411,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["create-hash", "npm:1.2.0"],
             ["inherits", "npm:2.0.4"],
             ["ripemd160", "npm:2.0.2"],
-            ["safe-buffer", "npm:5.1.2"],
+            ["safe-buffer", "npm:5.2.1"],
             ["sha.js", "npm:2.4.11"]
           ],
           "linkType": "HARD",
@@ -6973,7 +6973,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["md5.js", "npm:1.3.5"],
             ["hash-base", "npm:3.1.0"],
             ["inherits", "npm:2.0.4"],
-            ["safe-buffer", "npm:5.1.2"]
+            ["safe-buffer", "npm:5.2.1"]
           ],
           "linkType": "HARD",
         }]
@@ -7685,9 +7685,9 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/preset-typescript", "virtual:bb17d83990d687790d6384e46b41060316e25f26c85db0fe5e29cfeba8af1957f9aa779dbd4714408d5d029dccabae51b29c4cb92b632e2eebc60c281024cf2c#npm:7.10.4"],
             ["@babel/types", "npm:7.11.5"],
             ["@parcel/config-default", "virtual:bb17d83990d687790d6384e46b41060316e25f26c85db0fe5e29cfeba8af1957f9aa779dbd4714408d5d029dccabae51b29c4cb92b632e2eebc60c281024cf2c#npm:2.0.0-nightly.409"],
-            ["babel-preset-solid", "npm:0.19.3"],
+            ["babel-preset-solid", "npm:0.20.0-beta.7"],
             ["parcel", "npm:2.0.0-nightly.407"],
-            ["solid-js", "npm:0.19.3"],
+            ["solid-js", "npm:0.20.0-beta.10"],
             ["typescript", "patch:typescript@npm%3A4.0.3#builtin<compat/typescript>::version=4.0.3&hash=5b02a2"]
           ],
           "linkType": "SOFT",
@@ -7844,7 +7844,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["create-hash", "npm:1.2.0"],
             ["create-hmac", "npm:1.1.7"],
             ["ripemd160", "npm:2.0.2"],
-            ["safe-buffer", "npm:5.1.2"],
+            ["safe-buffer", "npm:5.2.1"],
             ["sha.js", "npm:2.4.11"]
           ],
           "linkType": "HARD",
@@ -8441,7 +8441,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["create-hash", "npm:1.2.0"],
             ["parse-asn1", "npm:5.1.6"],
             ["randombytes", "npm:2.1.0"],
-            ["safe-buffer", "npm:5.1.2"]
+            ["safe-buffer", "npm:5.2.1"]
           ],
           "linkType": "HARD",
         }]
@@ -8716,7 +8716,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["oauth-sign", "npm:0.9.0"],
             ["performance-now", "npm:2.1.0"],
             ["qs", "npm:6.5.2"],
-            ["safe-buffer", "npm:5.1.2"],
+            ["safe-buffer", "npm:5.2.1"],
             ["tough-cookie", "npm:2.5.0"],
             ["tunnel-agent", "npm:0.6.0"],
             ["uuid", "npm:3.4.0"]
@@ -9029,7 +9029,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["sha.js", "npm:2.4.11"],
             ["inherits", "npm:2.0.4"],
-            ["safe-buffer", "npm:5.1.2"]
+            ["safe-buffer", "npm:5.2.1"]
           ],
           "linkType": "HARD",
         }]
@@ -9149,10 +9149,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["solid-js", [
-        ["npm:0.19.3", {
-          "packageLocation": "./.yarn/cache/solid-js-npm-0.19.3-c2dd1f656c-12e5bfbb5d.zip/node_modules/solid-js/",
+        ["npm:0.20.0-beta.10", {
+          "packageLocation": "./.yarn/cache/solid-js-npm-0.20.0-beta.10-fd6011d055-49180c587c.zip/node_modules/solid-js/",
           "packageDependencies": [
-            ["solid-js", "npm:0.19.3"]
+            ["solid-js", "npm:0.20.0-beta.10"]
           ],
           "linkType": "HARD",
         }]
@@ -9668,7 +9668,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/tunnel-agent-npm-0.6.0-64345ab7eb-03db75a4f9.zip/node_modules/tunnel-agent/",
           "packageDependencies": [
             ["tunnel-agent", "npm:0.6.0"],
-            ["safe-buffer", "npm:5.1.2"]
+            ["safe-buffer", "npm:5.2.1"]
           ],
           "linkType": "HARD",
         }]
@@ -9874,7 +9874,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["is-arguments", "npm:1.0.4"],
             ["is-generator-function", "npm:1.0.7"],
             ["is-typed-array", "npm:1.1.3"],
-            ["safe-buffer", "npm:5.1.2"],
+            ["safe-buffer", "npm:5.2.1"],
             ["which-typed-array", "npm:1.1.2"]
           ],
           "linkType": "HARD",

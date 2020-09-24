@@ -25,7 +25,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@babel/core@npm:^7.0.0, @babel/core@npm:^7.11.4":
+"@babel/core@npm:^7.0.0, @babel/core@npm:^7.11.6":
   version: 7.11.6
   resolution: "@babel/core@npm:7.11.6"
   dependencies:
@@ -2641,7 +2641,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-plugin-jsx-dom-expressions@npm:~0.20.3":
+"babel-plugin-jsx-dom-expressions@npm:~0.20.8":
   version: 0.20.8
   resolution: "babel-plugin-jsx-dom-expressions@npm:0.20.8"
   dependencies:
@@ -2658,13 +2658,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-preset-solid@npm:^0.19.0":
-  version: 0.19.3
-  resolution: "babel-preset-solid@npm:0.19.3"
+"babel-preset-solid@npm:beta":
+  version: 0.20.0-beta.7
+  resolution: "babel-preset-solid@npm:0.20.0-beta.7"
   dependencies:
-    babel-plugin-jsx-dom-expressions: ~0.20.3
+    babel-plugin-jsx-dom-expressions: ~0.20.8
     babel-plugin-transform-rename-import: ^2.3.0
-  checksum: 326af2c49758d868771bb438dac2c50c6ef65c81e5a44e3230362a5b85daf8ca3e2cbbde783ddece751057fd1003231a08db199c543aa7f62d16a877ec9882ca
+  checksum: 95002f739a4b463ccd19d1d0bab96db41a2f763281b1e4e0000a00555d6c278551423abfbca77d7080ec1cd394fa43915c0a3b57704598418bedf1c56c29d5ab
   languageName: node
   linkType: hard
 
@@ -6275,13 +6275,13 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "parcel2-solid-starter@workspace:."
   dependencies:
-    "@babel/core": ^7.11.4
+    "@babel/core": ^7.11.6
     "@babel/preset-typescript": ^7.10.4
     "@babel/types": ^7.11.5
     "@parcel/config-default": nightly
-    babel-preset-solid: ^0.19.0
+    babel-preset-solid: beta
     parcel: nightly
-    solid-js: ^0.19.1
+    solid-js: beta
     typescript: ^4.0.3
   languageName: unknown
   linkType: soft
@@ -7380,17 +7380,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"safe-buffer@npm:^5.0.1, safe-buffer@npm:^5.1.2, safe-buffer@npm:~5.1.0, safe-buffer@npm:~5.1.1":
-  version: 5.1.2
-  resolution: "safe-buffer@npm:5.1.2"
-  checksum: 2708587c1b5e70a5e420714ceb59f30f5791c6e831d39812125a008eca63a4ac18578abd020a0776ea497ff03b4543f2b2a223a7b9073bf2d6c7af9ec6829218
-  languageName: node
-  linkType: hard
-
-"safe-buffer@npm:^5.1.0, safe-buffer@npm:^5.1.1, safe-buffer@npm:^5.2.0, safe-buffer@npm:~5.2.0":
+"safe-buffer@npm:^5.0.1, safe-buffer@npm:^5.1.0, safe-buffer@npm:^5.1.1, safe-buffer@npm:^5.1.2, safe-buffer@npm:^5.2.0, safe-buffer@npm:~5.2.0":
   version: 5.2.1
   resolution: "safe-buffer@npm:5.2.1"
   checksum: 0bb57f0d8f9d1fa4fe35ad8a2db1f83a027d48f2822d59ede88fd5cd4ddad83c0b497213feb7a70fbf90597a70c5217f735b0eb1850df40ce9b4ae81dd22b3f9
+  languageName: node
+  linkType: hard
+
+"safe-buffer@npm:~5.1.0, safe-buffer@npm:~5.1.1":
+  version: 5.1.2
+  resolution: "safe-buffer@npm:5.1.2"
+  checksum: 2708587c1b5e70a5e420714ceb59f30f5791c6e831d39812125a008eca63a4ac18578abd020a0776ea497ff03b4543f2b2a223a7b9073bf2d6c7af9ec6829218
   languageName: node
   linkType: hard
 
@@ -7620,10 +7620,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"solid-js@npm:^0.19.1":
-  version: 0.19.3
-  resolution: "solid-js@npm:0.19.3"
-  checksum: 12e5bfbb5d2b01ab343f402d466b9cb5f913596cf86649b37d29a2b0343d021914a5ec7d67fbd1838ec6bbc5b818d020a4fd4c02fbb2fde3675225fb55366bc4
+"solid-js@npm:beta":
+  version: 0.20.0-beta.10
+  resolution: "solid-js@npm:0.20.0-beta.10"
+  checksum: 49180c587c768563704b3defeb0d76adbf277ee9a4e62ce47edbe2c4131c74ddb4c862d847e8bcad16812ff93d6faa130b2faa9d7b02939b9de04080771dd136
   languageName: node
   linkType: hard
 
