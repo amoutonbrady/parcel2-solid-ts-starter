@@ -1,5 +1,14 @@
 # Changelog
 
+<a name="1.1.0"></a>
+## 1.1.0 (2020-09-24)
+
+### Changed
+
+- ⬆️ Update dependencies to beta + hide yarn files [[09a0a9e](https://github.com/amoutonbrady/parcel2-solid-ts-starter/commit/09a0a9e5fa137bc83ae3f02412ceeb98e6d22db2)]
+- ⬆️ Update to yarn 2 [[60fef58](https://github.com/amoutonbrady/parcel2-solid-ts-starter/commit/60fef5866fbb31fe32ab95009f4faf01b2e2e599)]
+
+
 <a name="1.0.0"></a>
 ## 1.0.0 (2020-08-29)
 
