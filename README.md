@@ -2,18 +2,17 @@
 
 Great DX + performances out of the box
 
+Uses yarn 2 out of the box, literally 0 install to-do
+
 ## Usage
 
 ```bash
 # Clone
 $ npx degit amoutonbrady/parcel2-solid-ts-starter
 
-# Install
-$ npm install # yarn install / pnpm install
-
 # Dev
-$ npm run dev
+$ yarn dev
 
 # Build
-$ npm run build
+$ yarn build
 ```
