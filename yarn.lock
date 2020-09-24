@@ -1429,7 +1429,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@parcel/config-default@npm:2.0.0-nightly.409+2e0f1afc, @parcel/config-default@npm:nightly":
+"@parcel/config-default@npm:2.0.0-nightly.409+2e0f1afc, @parcel/config-default@npm:^2.0.0-nightly.409":
   version: 2.0.0-nightly.409
   resolution: "@parcel/config-default@npm:2.0.0-nightly.409"
   dependencies:
@@ -2658,7 +2658,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"babel-preset-solid@npm:beta":
+"babel-preset-solid@npm:^0.20.0-beta.7":
   version: 0.20.0-beta.7
   resolution: "babel-preset-solid@npm:0.20.0-beta.7"
   dependencies:
@@ -6278,15 +6278,15 @@ __metadata:
     "@babel/core": ^7.11.6
     "@babel/preset-typescript": ^7.10.4
     "@babel/types": ^7.11.5
-    "@parcel/config-default": nightly
-    babel-preset-solid: beta
-    parcel: nightly
-    solid-js: beta
+    "@parcel/config-default": ^2.0.0-nightly.409
+    babel-preset-solid: ^0.20.0-beta.7
+    parcel: ^2.0.0-nightly.407
+    solid-js: ^0.20.0-beta.10
     typescript: ^4.0.3
   languageName: unknown
   linkType: soft
 
-"parcel@npm:nightly":
+"parcel@npm:^2.0.0-nightly.407":
   version: 2.0.0-nightly.407
   resolution: "parcel@npm:2.0.0-nightly.407"
   dependencies:
@@ -7620,7 +7620,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"solid-js@npm:beta":
+"solid-js@npm:^0.20.0-beta.10":
   version: 0.20.0-beta.10
   resolution: "solid-js@npm:0.20.0-beta.10"
   checksum: 49180c587c768563704b3defeb0d76adbf277ee9a4e62ce47edbe2c4131c74ddb4c862d847e8bcad16812ff93d6faa130b2faa9d7b02939b9de04080771dd136
