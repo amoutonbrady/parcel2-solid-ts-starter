@@ -2,8 +2,6 @@
 
 Great DX + performances out of the box
 
-Uses yarn 2 out of the box, literally 0 install to-do
-
 ## Usage
 
 ```bash
