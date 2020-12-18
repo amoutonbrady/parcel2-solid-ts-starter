@@ -1,8 +1,15 @@
-import { Component } from "solid-js";
-import { render } from "solid-js/dom";
+import { render } from "solid-js/web";
+import { Component, createSignal } from "solid-js";
 
-const App: Component = () => {
-  return <h1>Hello world!</h1>;
+const Counter: Component = () => {
+  const [count, setCount] = createSignal(0);
+  const inc = (by: number) => setCount(count() + by);
+
+  return (
+    <button type="button" onClick={[inc, 1]}>
+      {count()}
+    </button>
+  );
 };
 
-render(() => <App />, document.getElementById("app"));
+render(() => <Counter />, document.getElementById("app"));
